@@ -35,7 +35,10 @@ gap: 16px;
 }
 
 .hero{
-
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 
 .heroTitle{
@@ -43,5 +46,5 @@ gap: 16px;
 }
 
 .heroText{
-    
+
 }
