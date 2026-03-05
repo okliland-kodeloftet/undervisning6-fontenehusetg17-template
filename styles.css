@@ -61,3 +61,26 @@ color: white;
 width: 300px;
 padding: 16px;
 }
+
+.about{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+width: 50%;
+}
+
+.aboutContainer p{
+    width: 300px;
+}
+
+.aboutImg{
+    height: 400px;
+    width: 500px;
+}
