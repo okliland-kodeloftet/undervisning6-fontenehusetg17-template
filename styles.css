@@ -1,10 +1,17 @@
 
+body{
+    margin: 0;
+}
+
+
 .header{
 height: 100px;
 background-color: #c7c7c7;
 display: flex;
 align-items: center;
 justify-content: space-between;
+padding: 0 16px;
+
 }
 
 .headerLogo{
@@ -16,6 +23,7 @@ list-style-type: none;
 margin-left: 0;
 display: flex;
 gap: 16px;
+
 }
 
 .listAnchor{
@@ -26,3 +34,14 @@ gap: 16px;
 
 }
 
+.hero{
+
+}
+
+.heroTitle{
+
+}
+
+.heroText{
+    
+}
