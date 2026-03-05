@@ -46,8 +46,13 @@ flex-direction: column;
     color: white;
 background-color: #010100;
 opacity: 70%;
+padding: 16px 24px;
 }
 
 .heroText{
-
+background-color: #010100;
+opacity: 70%;
+color: white;
+width: 300px;
+padding: 16px;
 }
