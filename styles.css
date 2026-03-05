@@ -2,6 +2,9 @@
 .header{
 height: 100px;
 background-color: #c7c7c7;
+display: flex;
+align-items: center;
+justify-content: space-between;
 }
 
 .headerLogo{
@@ -9,7 +12,10 @@ background-color: #c7c7c7;
 }
 
 .headerList{
-
+list-style-type: none;
+margin-left: 0;
+display: flex;
+gap: 16px;
 }
 
 .listAnchor{
