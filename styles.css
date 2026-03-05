@@ -84,3 +84,22 @@ width: 50%;
     height: 400px;
     width: 500px;
 }
+
+.projects{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.projectCardImg{
+    width: 100%;
+}
+
+.projectCard{
+    width: 300px;
+    border: 1px solid #010100;
+    border-radius: 10px;
+    text-align: center;
+}
